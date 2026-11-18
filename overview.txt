@@ -9,8 +9,8 @@ Category        : Open Source Repository
 Primary Stack   : Unspecified
 Repository URL  : https://github.com/deep5devlopers/open-dev-qa-hub
 Live URL        : None configured
-Last Push (UTC) : 2026-11-17T07:06:22Z
-Generated (UTC) : 2026-11-17 10:46 UTC
+Last Push (UTC) : 2026-11-17T10:46:23Z
+Generated (UTC) : 2026-11-18 07:12 UTC
 Maintainer      : Deep Sanchaniya (@deep5devlopers / deep5devlopers@gmail.com)
 
 SUMMARY
@@ -23,10 +23,11 @@ Public Q&A and open-source collaboration hub
 
 ROOT DIRECTORY STRUCTURE
 --------------------------------------------------------------------------------
-  - README.md
   - overview.txt
+  - README.md
 
 RECENT COMMITS
 --------------------------------------------------------------------------------
+  - 50b9107 | 2026-11-17T10:46:22Z | docs(overview): add root overview.txt
   - df0dbde | 2026-11-17T06:57:42Z | Initial commit
 ================================================================================
